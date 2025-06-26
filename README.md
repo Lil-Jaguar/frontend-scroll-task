@@ -30,3 +30,15 @@ npm run dev
 http://localhost:5173
 
 5.Scroll the container vertically and horizontally as needed to dynamically render elements.
+
+
+Assumptions and Limitations
+The scroll container includes extra height to ensure scroll events trigger even on minimal scrolling.
+
+The project uses React with Vite as the development environment.
+
+Styling is minimal and inline for demonstration purposes.
+
+Elements are rendered one-by-one with a 500ms delay to meet the assignment requirements.
+
+The project focuses on dynamic rendering and scroll behavior; production optimizations and tests are not included.
