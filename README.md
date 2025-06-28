@@ -8,7 +8,7 @@ This project implements the frontend developer task requiring a dynamically gene
 - Elements 21 to 30 are displayed horizontally.
 - Elements 31 to 50 are displayed vertically again.
 
-Elements are generated dynamically only when the user scrolls, ensuring efficient rendering and smooth user experience.
+Elements are generated dynamically only when the user scrolls, ensuring efficient rendering and smooth user experience .
 
 ## How to Run
 
